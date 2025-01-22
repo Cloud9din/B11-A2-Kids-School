@@ -214,7 +214,7 @@ footer .columns {
 }
 
 footer .column {
-    flex: 1;
+    flex: 2;
     padding: 0 1rem;
 }
 
