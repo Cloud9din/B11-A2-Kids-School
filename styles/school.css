@@ -8,7 +8,7 @@
 body {
     font-family: 'Quicksand', sans-serif;
     line-height: 1.6;
-    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(255, 255, 255, 0.5)), url('bg.png');
+    background: linear-gradient(to right, rgba(187, 171, 28, 0.5), rgba(255, 255, 255, 0.596)), url('bg.png');
 }
 
 /* Navbar */
@@ -112,7 +112,7 @@ nav .contact-btn {
 /* Standard Curriculum */
 .curriculum {
     padding: 2rem;
-    background: url('background.jpg') no-repeat center center/cover;
+    background: no-repeat center center/cover;
 }
 
 .curriculum h2 {
